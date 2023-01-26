@@ -1,0 +1,20 @@
+#cancelBtn{
+    background-color: crimson;
+    color: aliceblue;
+    margin-left: 7px;
+    margin-top: 5px;
+    padding-top: 5px;
+  }
+  .footer  {
+    width: 150px;
+    height: 45px;
+    margin: 10px;
+    border: none;
+    background-color: cornflowerblue;
+    color: white;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-left: 10px;
+    margin-right: 20px;
+  }
